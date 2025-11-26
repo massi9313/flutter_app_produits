@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# flutter_app_produit
+![wait](https://github.com/user-attachments/assets/79c43771-e817-4f27-924c-96633bd102c0)
 
-A new Flutter project.
-=======
-# flutter_app_produits
->>>>>>> 9d41062362d70d9ee87dd1890278c29f82f8b170
+![wait](https://github.com/user-attachments/assets/43081f4c-e284-4aaa-b68c-3efd4223b5c)
+
+![wait](https://github.com/user-attachments/assets/8b9fed05-2c82-4894-bbec-e8e6bd5c54e4)
+
+
