@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app_produit/model/produit.dart';
+import 'models/produit.dart';
 
 
 class Detailproduit extends StatelessWidget {
